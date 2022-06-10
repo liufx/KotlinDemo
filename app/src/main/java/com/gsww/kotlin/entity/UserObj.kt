@@ -7,7 +7,6 @@ import java.io.Serializable
  * @package: com.gsww.kotlin.entity
  * @author: liufx
  * @date: 2018/12/9 2:35 PM
- * Copyright © 2018 中国电信甘肃万维公司. All rights reserved.
  * @description: 返回的对象
  */
 
