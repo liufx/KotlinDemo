@@ -5,7 +5,6 @@ package com.gsww.kotlin.util
  * @package: com.gsww.kotlin.util
  * @author: liufx
  * @date: 2018/12/9 7:38 PM
- * Copyright © 2018 中国电信甘肃万维公司. All rights reserved.
  * @description: 静态文件
  *
  */
