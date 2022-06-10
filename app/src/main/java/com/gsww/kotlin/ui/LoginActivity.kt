@@ -19,7 +19,6 @@ import kotlinx.android.synthetic.main.activity_login.*
  * @package: com.gsww.kotlin.ui
  * @author: liufx
  * @date: 2018/12/9 11:35 AM
- * Copyright © 2018 中国电信甘肃万维公司. All rights reserved.
  * @description: 用户登录
  *
  */
