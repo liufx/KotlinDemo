@@ -13,10 +13,6 @@ import com.gsww.kotlin.entity.TopObj
 
 /**
  *
- * @package: com.gsww.kotlin.adapter
- * @author: liufx
- * @date: 2018/12/9 8:33 PM
- * Copyright © 2018 中国电信甘肃万维公司. All rights reserved.
  * @description: 列表适配器
  *
  */
