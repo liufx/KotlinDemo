@@ -13,9 +13,6 @@ import com.gsww.kotlin.entity.TopObj
 
 /**
  *
- * @package: com.gsww.kotlin.adapter
- * @author: liufx
- * @date: 2018/12/9 8:33 PM
  * @description: 列表适配器
  *
  */
